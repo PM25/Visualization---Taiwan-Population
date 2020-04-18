@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color: #77d8d8;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+svg {
+    width: 100vw;
+    height: 100vh;
+}
+
+.info {
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 35vw;
+    height: 90vh;
+    background-color: #ddda;
+    border-radius: 2em;
+    margin: 1em;
+}
+
+.info > .title {
+    text-align: center;
+    font-size: 2em;
+    margin: 0.5em;
+}
+
+.taiwan {
+    /* fill: #639a67; */
+    cursor: pointer;
+}
+
+.taiwan:hover {
+    fill: #666;
+}
+
+.non-taipei {
+    fill: #639a6755;
+}
+
+.boundary {
+    fill: none;
+    stroke: #fffa;
+    stroke-width: 0.01em;
+}

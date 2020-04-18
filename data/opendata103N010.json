@@ -1,0 +1,2592 @@
+[
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市板橋區",
+        "people_total": 555914,
+        "area": 23.1373,
+        "population_density": 24027
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市三重區",
+        "people_total": 389325,
+        "area": 16.317,
+        "population_density": 23860
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市中和區",
+        "people_total": 415226,
+        "area": 20.144,
+        "population_density": 20613
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市永和區",
+        "people_total": 227267,
+        "area": 5.7138,
+        "population_density": 39775
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市新莊區",
+        "people_total": 411711,
+        "area": 19.7383,
+        "population_density": 20858
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市新店區",
+        "people_total": 299730,
+        "area": 120.2255,
+        "population_density": 2493
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市樹林區",
+        "people_total": 184167,
+        "area": 33.1288,
+        "population_density": 5559
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市鶯歌區",
+        "people_total": 89075,
+        "area": 21.1248,
+        "population_density": 4217
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市三峽區",
+        "people_total": 111588,
+        "area": 191.4508,
+        "population_density": 583
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市淡水區",
+        "people_total": 158953,
+        "area": 70.6565,
+        "population_density": 2250
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市汐止區",
+        "people_total": 195140,
+        "area": 71.2354,
+        "population_density": 2739
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市瑞芳區",
+        "people_total": 41315,
+        "area": 70.7336,
+        "population_density": 584
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市土城區",
+        "people_total": 239270,
+        "area": 29.5578,
+        "population_density": 8095
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市蘆洲區",
+        "people_total": 199750,
+        "area": 7.4351,
+        "population_density": 26866
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市五股區",
+        "people_total": 82255,
+        "area": 34.8632,
+        "population_density": 2359
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市泰山區",
+        "people_total": 78370,
+        "area": 19.1603,
+        "population_density": 4090
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市林口區",
+        "people_total": 97645,
+        "area": 54.1519,
+        "population_density": 1803
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市深坑區",
+        "people_total": 23636,
+        "area": 20.5787,
+        "population_density": 1149
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市石碇區",
+        "people_total": 7864,
+        "area": 144.3498,
+        "population_density": 54
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市坪林區",
+        "people_total": 6455,
+        "area": 170.835,
+        "population_density": 38
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市三芝區",
+        "people_total": 23480,
+        "area": 65.9909,
+        "population_density": 356
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市石門區",
+        "people_total": 12733,
+        "area": 51.2645,
+        "population_density": 248
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市八里區",
+        "people_total": 37187,
+        "area": 39.4933,
+        "population_density": 942
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市平溪區",
+        "people_total": 4954,
+        "area": 71.3382,
+        "population_density": 69
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市雙溪區",
+        "people_total": 9450,
+        "area": 146.2484,
+        "population_density": 65
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市貢寮區",
+        "people_total": 13115,
+        "area": 99.9734,
+        "population_density": 131
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市金山區",
+        "people_total": 22400,
+        "area": 49.2132,
+        "population_density": 455
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市萬里區",
+        "people_total": 22678,
+        "area": 63.3766,
+        "population_density": 358
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新北市烏來區",
+        "people_total": 6165,
+        "area": 321.1306,
+        "population_density": 19
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市松山區",
+        "people_total": 210473,
+        "area": 9.2878,
+        "population_density": 22661
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市信義區",
+        "people_total": 229657,
+        "area": 11.2077,
+        "population_density": 20491
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市大安區",
+        "people_total": 313693,
+        "area": 11.3614,
+        "population_density": 27610
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市中山區",
+        "people_total": 230496,
+        "area": 13.6821,
+        "population_density": 16847
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市中正區",
+        "people_total": 163388,
+        "area": 7.6071,
+        "population_density": 21478
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市大同區",
+        "people_total": 130973,
+        "area": 5.6815,
+        "population_density": 23053
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市萬華區",
+        "people_total": 194715,
+        "area": 8.8522,
+        "population_density": 21996
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市文山區",
+        "people_total": 273921,
+        "area": 31.509,
+        "population_density": 8693
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市南港區",
+        "people_total": 121257,
+        "area": 21.8424,
+        "population_density": 5551
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市內湖區",
+        "people_total": 285767,
+        "area": 31.5787,
+        "population_density": 9049
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市士林區",
+        "people_total": 290455,
+        "area": 62.3682,
+        "population_density": 4657
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺北市北投區",
+        "people_total": 257520,
+        "area": 56.8216,
+        "population_density": 4532
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市桃園區",
+        "people_total": 417366,
+        "area": 34.8046,
+        "population_density": 11992
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市中壢區",
+        "people_total": 381449,
+        "area": 76.52,
+        "population_density": 4985
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市大溪區",
+        "people_total": 91887,
+        "area": 105.1206,
+        "population_density": 874
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市楊梅區",
+        "people_total": 157200,
+        "area": 89.1229,
+        "population_density": 1764
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市蘆竹區",
+        "people_total": 151354,
+        "area": 75.5025,
+        "population_density": 2005
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市大園區",
+        "people_total": 84531,
+        "area": 87.3925,
+        "population_density": 967
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市龜山區",
+        "people_total": 141998,
+        "area": 72.0177,
+        "population_density": 1972
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市八德區",
+        "people_total": 181431,
+        "area": 33.7111,
+        "population_density": 5382
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市龍潭區",
+        "people_total": 116211,
+        "area": 75.2341,
+        "population_density": 1545
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市平鎮區",
+        "people_total": 212328,
+        "area": 47.7532,
+        "population_density": 4446
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市新屋區",
+        "people_total": 48058,
+        "area": 85.0166,
+        "population_density": 565
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市觀音區",
+        "people_total": 63602,
+        "area": 87.9807,
+        "population_density": 723
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "桃園市復興區",
+        "people_total": 10913,
+        "area": 350.7775,
+        "population_density": 31
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市中區",
+        "people_total": 19323,
+        "area": 0.8803,
+        "population_density": 21950
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市東區",
+        "people_total": 74922,
+        "area": 9.2855,
+        "population_density": 8069
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市南區",
+        "people_total": 120128,
+        "area": 6.8101,
+        "population_density": 17640
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市西區",
+        "people_total": 115731,
+        "area": 5.7042,
+        "population_density": 20289
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市北區",
+        "people_total": 147471,
+        "area": 6.9376,
+        "population_density": 21257
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市西屯區",
+        "people_total": 218540,
+        "area": 39.8467,
+        "population_density": 5485
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市南屯區",
+        "people_total": 161906,
+        "area": 31.2578,
+        "population_density": 5180
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市北屯區",
+        "people_total": 259742,
+        "area": 62.7034,
+        "population_density": 4142
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市豐原區",
+        "people_total": 166458,
+        "area": 41.1845,
+        "population_density": 4042
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市東勢區",
+        "people_total": 51485,
+        "area": 117.4065,
+        "population_density": 439
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市大甲區",
+        "people_total": 77607,
+        "area": 58.5192,
+        "population_density": 1326
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市清水區",
+        "people_total": 85957,
+        "area": 64.1709,
+        "population_density": 1340
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市沙鹿區",
+        "people_total": 87742,
+        "area": 40.4604,
+        "population_density": 2169
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市梧棲區",
+        "people_total": 56643,
+        "area": 16.6049,
+        "population_density": 3411
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市后里區",
+        "people_total": 54106,
+        "area": 58.9439,
+        "population_density": 918
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市神岡區",
+        "people_total": 64956,
+        "area": 35.0445,
+        "population_density": 1854
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市潭子區",
+        "people_total": 105165,
+        "area": 25.8497,
+        "population_density": 4068
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市大雅區",
+        "people_total": 92628,
+        "area": 32.4109,
+        "population_density": 2858
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市新社區",
+        "people_total": 25242,
+        "area": 68.8874,
+        "population_density": 366
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市石岡區",
+        "people_total": 15405,
+        "area": 18.2105,
+        "population_density": 846
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市外埔區",
+        "people_total": 31800,
+        "area": 42.4099,
+        "population_density": 750
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市大安區",
+        "people_total": 19654,
+        "area": 27.4045,
+        "population_density": 717
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市烏日區",
+        "people_total": 71520,
+        "area": 43.4032,
+        "population_density": 1648
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市大肚區",
+        "people_total": 56364,
+        "area": 37.0024,
+        "population_density": 1523
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市龍井區",
+        "people_total": 76164,
+        "area": 38.0377,
+        "population_density": 2002
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市霧峰區",
+        "people_total": 64496,
+        "area": 98.0779,
+        "population_density": 658
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市太平區",
+        "people_total": 181537,
+        "area": 120.7473,
+        "population_density": 1503
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市大里區",
+        "people_total": 206318,
+        "area": 28.8758,
+        "population_density": 7145
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺中市和平區",
+        "people_total": 10825,
+        "area": 1037.8192,
+        "population_density": 10
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市新營區",
+        "people_total": 78231,
+        "area": 38.5386,
+        "population_density": 2030
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市鹽水區",
+        "people_total": 26322,
+        "area": 52.2455,
+        "population_density": 504
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市白河區",
+        "people_total": 29731,
+        "area": 126.4046,
+        "population_density": 235
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市柳營區",
+        "people_total": 21828,
+        "area": 61.2929,
+        "population_density": 356
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市後壁區",
+        "people_total": 24589,
+        "area": 72.2189,
+        "population_density": 340
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市東山區",
+        "people_total": 21920,
+        "area": 124.9178,
+        "population_density": 175
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市麻豆區",
+        "people_total": 45067,
+        "area": 53.9744,
+        "population_density": 835
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市下營區",
+        "people_total": 25068,
+        "area": 33.5291,
+        "population_density": 748
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市六甲區",
+        "people_total": 22832,
+        "area": 67.5471,
+        "population_density": 338
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市官田區",
+        "people_total": 21706,
+        "area": 70.7953,
+        "population_density": 307
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市大內區",
+        "people_total": 10248,
+        "area": 70.3125,
+        "population_density": 146
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市佳里區",
+        "people_total": 59533,
+        "area": 38.9422,
+        "population_density": 1529
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市學甲區",
+        "people_total": 26949,
+        "area": 53.9919,
+        "population_density": 499
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市西港區",
+        "people_total": 24896,
+        "area": 33.7666,
+        "population_density": 737
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市七股區",
+        "people_total": 23608,
+        "area": 110.1492,
+        "population_density": 214
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市將軍區",
+        "people_total": 20568,
+        "area": 41.9796,
+        "population_density": 490
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市北門區",
+        "people_total": 11691,
+        "area": 44.1003,
+        "population_density": 265
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市新化區",
+        "people_total": 43782,
+        "area": 62.0579,
+        "population_density": 706
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市善化區",
+        "people_total": 46100,
+        "area": 55.3097,
+        "population_density": 833
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市新市區",
+        "people_total": 35482,
+        "area": 47.8096,
+        "population_density": 742
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市安定區",
+        "people_total": 30298,
+        "area": 31.27,
+        "population_density": 969
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市山上區",
+        "people_total": 7500,
+        "area": 27.878,
+        "population_density": 269
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市玉井區",
+        "people_total": 14561,
+        "area": 76.3662,
+        "population_density": 191
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市楠西區",
+        "people_total": 10116,
+        "area": 109.6316,
+        "population_density": 92
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市南化區",
+        "people_total": 9001,
+        "area": 171.5198,
+        "population_density": 52
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市左鎮區",
+        "people_total": 5181,
+        "area": 74.9025,
+        "population_density": 69
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市仁德區",
+        "people_total": 73099,
+        "area": 50.7664,
+        "population_density": 1440
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市歸仁區",
+        "people_total": 67504,
+        "area": 55.7913,
+        "population_density": 1210
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市關廟區",
+        "people_total": 34865,
+        "area": 53.6413,
+        "population_density": 650
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市龍崎區",
+        "people_total": 4292,
+        "area": 64.0814,
+        "population_density": 67
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市永康區",
+        "people_total": 228651,
+        "area": 40.2753,
+        "population_density": 5677
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市東區",
+        "people_total": 190233,
+        "area": 13.4156,
+        "population_density": 14180
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市南區",
+        "people_total": 125691,
+        "area": 27.2681,
+        "population_density": 4609
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市北區",
+        "people_total": 132558,
+        "area": 10.434,
+        "population_density": 12704
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市安南區",
+        "people_total": 187775,
+        "area": 107.2016,
+        "population_density": 1752
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市安平區",
+        "people_total": 64898,
+        "area": 11.0663,
+        "population_density": 5864
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺南市中西區",
+        "people_total": 77910,
+        "area": 6.26,
+        "population_density": 12446
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市鹽埕區",
+        "people_total": 25400,
+        "area": 1.4161,
+        "population_density": 17937
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市鼓山區",
+        "people_total": 135667,
+        "area": 14.7523,
+        "population_density": 9196
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市左營區",
+        "people_total": 195643,
+        "area": 19.3823,
+        "population_density": 10094
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市楠梓區",
+        "people_total": 178532,
+        "area": 25.8276,
+        "population_density": 6912
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市三民區",
+        "people_total": 347619,
+        "area": 19.7866,
+        "population_density": 17568
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市新興區",
+        "people_total": 52534,
+        "area": 1.9764,
+        "population_density": 26581
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市前金區",
+        "people_total": 27832,
+        "area": 1.8573,
+        "population_density": 14985
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市苓雅區",
+        "people_total": 175854,
+        "area": 8.1522,
+        "population_density": 21571
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市前鎮區",
+        "people_total": 193952,
+        "area": 19.1207,
+        "population_density": 10144
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市旗津區",
+        "people_total": 28958,
+        "area": 1.4639,
+        "population_density": 19781
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市小港區",
+        "people_total": 156171,
+        "area": 41.2061,
+        "population_density": 3790
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市鳳山區",
+        "people_total": 354093,
+        "area": 26.759,
+        "population_density": 13233
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市林園區",
+        "people_total": 70476,
+        "area": 32.286,
+        "population_density": 2183
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市大寮區",
+        "people_total": 111191,
+        "area": 71.04,
+        "population_density": 1565
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市大樹區",
+        "people_total": 43190,
+        "area": 66.9811,
+        "population_density": 645
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市大社區",
+        "people_total": 34455,
+        "area": 26.5848,
+        "population_density": 1296
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市仁武區",
+        "people_total": 80994,
+        "area": 36.0808,
+        "population_density": 2245
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市鳥松區",
+        "people_total": 43735,
+        "area": 24.5927,
+        "population_density": 1778
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市岡山區",
+        "people_total": 97751,
+        "area": 47.9421,
+        "population_density": 2039
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市橋頭區",
+        "people_total": 37198,
+        "area": 25.9379,
+        "population_density": 1434
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市燕巢區",
+        "people_total": 30397,
+        "area": 65.395,
+        "population_density": 465
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市田寮區",
+        "people_total": 7680,
+        "area": 92.6802,
+        "population_density": 83
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市阿蓮區",
+        "people_total": 29566,
+        "area": 34.6164,
+        "population_density": 854
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市路竹區",
+        "people_total": 53064,
+        "area": 48.4348,
+        "population_density": 1096
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市湖內區",
+        "people_total": 29399,
+        "area": 20.1615,
+        "population_density": 1458
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市茄萣區",
+        "people_total": 30690,
+        "area": 15.7624,
+        "population_density": 1947
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市永安區",
+        "people_total": 14148,
+        "area": 22.6141,
+        "population_density": 626
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市彌陀區",
+        "people_total": 19854,
+        "area": 14.7772,
+        "population_density": 1344
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市梓官區",
+        "people_total": 36384,
+        "area": 11.5967,
+        "population_density": 3137
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市旗山區",
+        "people_total": 38100,
+        "area": 94.6122,
+        "population_density": 403
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市美濃區",
+        "people_total": 41258,
+        "area": 120.0316,
+        "population_density": 344
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市六龜區",
+        "people_total": 13663,
+        "area": 194.1584,
+        "population_density": 70
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市甲仙區",
+        "people_total": 6420,
+        "area": 124.034,
+        "population_density": 52
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市杉林區",
+        "people_total": 12531,
+        "area": 104.0036,
+        "population_density": 120
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市內門區",
+        "people_total": 15178,
+        "area": 95.6224,
+        "population_density": 159
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市茂林區",
+        "people_total": 1915,
+        "area": 194,
+        "population_density": 10
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市桃源區",
+        "people_total": 4296,
+        "area": 928.98,
+        "population_density": 5
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "高雄市那瑪夏區",
+        "people_total": 3204,
+        "area": 252.9895,
+        "population_density": 13
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣宜蘭市",
+        "people_total": 95885,
+        "area": 29.408,
+        "population_density": 3261
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣羅東鎮",
+        "people_total": 72533,
+        "area": 11.3448,
+        "population_density": 6394
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣蘇澳鎮",
+        "people_total": 41018,
+        "area": 89.0196,
+        "population_density": 461
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣頭城鎮",
+        "people_total": 29890,
+        "area": 100.893,
+        "population_density": 296
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣礁溪鄉",
+        "people_total": 35945,
+        "area": 101.4278,
+        "population_density": 354
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣壯圍鄉",
+        "people_total": 24492,
+        "area": 38.4769,
+        "population_density": 637
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣員山鄉",
+        "people_total": 32377,
+        "area": 111.9106,
+        "population_density": 289
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣冬山鄉",
+        "people_total": 53482,
+        "area": 79.8573,
+        "population_density": 670
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣五結鄉",
+        "people_total": 39378,
+        "area": 38.8671,
+        "population_density": 1013
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣三星鄉",
+        "people_total": 21503,
+        "area": 144.2238,
+        "population_density": 149
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣大同鄉",
+        "people_total": 6127,
+        "area": 657.5442,
+        "population_density": 9
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "宜蘭縣南澳鄉",
+        "people_total": 6147,
+        "area": 740.652,
+        "population_density": 8
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣竹北市",
+        "people_total": 165118,
+        "area": 46.8341,
+        "population_density": 3526
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣關西鎮",
+        "people_total": 30751,
+        "area": 125.5193,
+        "population_density": 245
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣新埔鎮",
+        "people_total": 34427,
+        "area": 72.1911,
+        "population_density": 477
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣竹東鎮",
+        "people_total": 96059,
+        "area": 53.5133,
+        "population_density": 1795
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣湖口鄉",
+        "people_total": 77210,
+        "area": 58.4303,
+        "population_density": 1321
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣橫山鄉",
+        "people_total": 13810,
+        "area": 66.3502,
+        "population_density": 208
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣新豐鄉",
+        "people_total": 55826,
+        "area": 46.3496,
+        "population_density": 1204
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣芎林鄉",
+        "people_total": 20301,
+        "area": 40.7858,
+        "population_density": 498
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣寶山鄉",
+        "people_total": 14365,
+        "area": 64.7871,
+        "population_density": 222
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣北埔鄉",
+        "people_total": 9784,
+        "area": 50.6676,
+        "population_density": 193
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣峨眉鄉",
+        "people_total": 5744,
+        "area": 46.801,
+        "population_density": 123
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣尖石鄉",
+        "people_total": 9506,
+        "area": 527.5795,
+        "population_density": 18
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹縣五峰鄉",
+        "people_total": 4729,
+        "area": 227.728,
+        "population_density": 21
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣苗栗市",
+        "people_total": 90963,
+        "area": 37.8878,
+        "population_density": 2401
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣苑裡鎮",
+        "people_total": 48589,
+        "area": 68.2473,
+        "population_density": 712
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣通霄鎮",
+        "people_total": 36941,
+        "area": 107.8486,
+        "population_density": 343
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣竹南鎮",
+        "people_total": 83622,
+        "area": 37.5592,
+        "population_density": 2226
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣頭份鎮",
+        "people_total": 102654,
+        "area": 53.3205,
+        "population_density": 1925
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣後龍鎮",
+        "people_total": 38360,
+        "area": 75.8079,
+        "population_density": 506
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣卓蘭鎮",
+        "people_total": 18353,
+        "area": 76.3153,
+        "population_density": 240
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣大湖鄉",
+        "people_total": 15549,
+        "area": 90.8396,
+        "population_density": 171
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣公館鄉",
+        "people_total": 34847,
+        "area": 71.4523,
+        "population_density": 488
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣銅鑼鄉",
+        "people_total": 18909,
+        "area": 78.3805,
+        "population_density": 241
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣南庄鄉",
+        "people_total": 10674,
+        "area": 165.4938,
+        "population_density": 64
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣頭屋鄉",
+        "people_total": 11377,
+        "area": 52.5046,
+        "population_density": 217
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣三義鄉",
+        "people_total": 17235,
+        "area": 69.3424,
+        "population_density": 249
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣西湖鄉",
+        "people_total": 7589,
+        "area": 41.0758,
+        "population_density": 185
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣造橋鄉",
+        "people_total": 13456,
+        "area": 47.9978,
+        "population_density": 280
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣三灣鄉",
+        "people_total": 7132,
+        "area": 52.2964,
+        "population_density": 136
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣獅潭鄉",
+        "people_total": 4725,
+        "area": 79.4324,
+        "population_density": 59
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "苗栗縣泰安鄉",
+        "people_total": 6157,
+        "area": 614.5127,
+        "population_density": 10
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣彰化市",
+        "people_total": 235022,
+        "area": 65.6947,
+        "population_density": 3577
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣鹿港鎮",
+        "people_total": 86100,
+        "area": 39.4625,
+        "population_density": 2182
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣和美鎮",
+        "people_total": 90741,
+        "area": 39.9345,
+        "population_density": 2272
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣北斗鎮",
+        "people_total": 33198,
+        "area": 19.2547,
+        "population_density": 1724
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣員林鎮",
+        "people_total": 124725,
+        "area": 40.038,
+        "population_density": 3115
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣溪湖鎮",
+        "people_total": 55788,
+        "area": 32.0592,
+        "population_density": 1740
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣田中鎮",
+        "people_total": 42745,
+        "area": 34.6056,
+        "population_density": 1235
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣二林鎮",
+        "people_total": 52330,
+        "area": 92.8478,
+        "population_density": 564
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣線西鄉",
+        "people_total": 17119,
+        "area": 18.0856,
+        "population_density": 947
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣伸港鄉",
+        "people_total": 36182,
+        "area": 22.3268,
+        "population_density": 1621
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣福興鄉",
+        "people_total": 47810,
+        "area": 49.8934,
+        "population_density": 958
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣秀水鄉",
+        "people_total": 39326,
+        "area": 29.3447,
+        "population_density": 1340
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣花壇鄉",
+        "people_total": 45916,
+        "area": 36.3469,
+        "population_density": 1263
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣芬園鄉",
+        "people_total": 24155,
+        "area": 38.0204,
+        "population_density": 635
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣大村鄉",
+        "people_total": 36457,
+        "area": 30.7837,
+        "population_density": 1184
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣埔鹽鄉",
+        "people_total": 33184,
+        "area": 38.6081,
+        "population_density": 860
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣埔心鄉",
+        "people_total": 34905,
+        "area": 20.9526,
+        "population_density": 1666
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣永靖鄉",
+        "people_total": 38200,
+        "area": 20.6382,
+        "population_density": 1851
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣社頭鄉",
+        "people_total": 43705,
+        "area": 36.1449,
+        "population_density": 1209
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣二水鄉",
+        "people_total": 15830,
+        "area": 29.4449,
+        "population_density": 538
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣田尾鄉",
+        "people_total": 27834,
+        "area": 24.0375,
+        "population_density": 1158
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣埤頭鄉",
+        "people_total": 31045,
+        "area": 42.7508,
+        "population_density": 726
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣芳苑鄉",
+        "people_total": 34744,
+        "area": 91.3827,
+        "population_density": 380
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣大城鄉",
+        "people_total": 17797,
+        "area": 63.7406,
+        "population_density": 279
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣竹塘鄉",
+        "people_total": 15863,
+        "area": 42.1662,
+        "population_density": 376
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "彰化縣溪州鄉",
+        "people_total": 30753,
+        "area": 75.831,
+        "population_density": 406
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣南投市",
+        "people_total": 102314,
+        "area": 71.6021,
+        "population_density": 1429
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣埔里鎮",
+        "people_total": 83021,
+        "area": 162.2227,
+        "population_density": 512
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣草屯鎮",
+        "people_total": 99209,
+        "area": 104.0327,
+        "population_density": 954
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣竹山鎮",
+        "people_total": 56662,
+        "area": 247.3339,
+        "population_density": 229
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣集集鎮",
+        "people_total": 11390,
+        "area": 49.7268,
+        "population_density": 229
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣名間鄉",
+        "people_total": 40019,
+        "area": 83.0955,
+        "population_density": 482
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣鹿谷鄉",
+        "people_total": 18538,
+        "area": 141.8981,
+        "population_density": 131
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣中寮鄉",
+        "people_total": 15566,
+        "area": 146.6541,
+        "population_density": 106
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣魚池鄉",
+        "people_total": 16501,
+        "area": 121.3735,
+        "population_density": 136
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣國姓鄉",
+        "people_total": 19715,
+        "area": 175.7042,
+        "population_density": 112
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣水里鄉",
+        "people_total": 18717,
+        "area": 106.8424,
+        "population_density": 175
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣信義鄉",
+        "people_total": 16813,
+        "area": 1422.4188,
+        "population_density": 12
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南投縣仁愛鄉",
+        "people_total": 15850,
+        "area": 1273.5312,
+        "population_density": 12
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣斗六市",
+        "people_total": 108098,
+        "area": 93.7151,
+        "population_density": 1153
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣斗南鎮",
+        "people_total": 46013,
+        "area": 48.1505,
+        "population_density": 956
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣虎尾鎮",
+        "people_total": 70269,
+        "area": 68.742,
+        "population_density": 1022
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣西螺鎮",
+        "people_total": 47187,
+        "area": 49.7985,
+        "population_density": 948
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣土庫鎮",
+        "people_total": 29697,
+        "area": 49.0212,
+        "population_density": 606
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣北港鎮",
+        "people_total": 41528,
+        "area": 41.4999,
+        "population_density": 1001
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣古坑鄉",
+        "people_total": 32686,
+        "area": 166.6059,
+        "population_density": 196
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣大埤鄉",
+        "people_total": 19989,
+        "area": 44.9973,
+        "population_density": 444
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣莿桐鄉",
+        "people_total": 29599,
+        "area": 50.8502,
+        "population_density": 582
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣林內鄉",
+        "people_total": 18970,
+        "area": 37.6035,
+        "population_density": 504
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣二崙鄉",
+        "people_total": 28323,
+        "area": 59.5625,
+        "population_density": 476
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣崙背鄉",
+        "people_total": 25896,
+        "area": 58.484,
+        "population_density": 443
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣麥寮鄉",
+        "people_total": 43880,
+        "area": 80.1668,
+        "population_density": 547
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣東勢鄉",
+        "people_total": 15865,
+        "area": 48.3562,
+        "population_density": 328
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣褒忠鄉",
+        "people_total": 13605,
+        "area": 37.0552,
+        "population_density": 367
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣臺西鄉",
+        "people_total": 24995,
+        "area": 54.0983,
+        "population_density": 462
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣元長鄉",
+        "people_total": 27307,
+        "area": 71.5872,
+        "population_density": 381
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣四湖鄉",
+        "people_total": 25415,
+        "area": 77.1189,
+        "population_density": 330
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣口湖鄉",
+        "people_total": 29017,
+        "area": 80.4612,
+        "population_density": 361
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "雲林縣水林鄉",
+        "people_total": 27017,
+        "area": 72.9582,
+        "population_density": 370
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣太保市",
+        "people_total": 37038,
+        "area": 66.8964,
+        "population_density": 554
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣朴子市",
+        "people_total": 43250,
+        "area": 49.5737,
+        "population_density": 872
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣布袋鎮",
+        "people_total": 28423,
+        "area": 61.7307,
+        "population_density": 460
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣大林鎮",
+        "people_total": 32159,
+        "area": 64.1663,
+        "population_density": 501
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣民雄鄉",
+        "people_total": 71903,
+        "area": 85.4969,
+        "population_density": 841
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣溪口鄉",
+        "people_total": 15393,
+        "area": 33.0463,
+        "population_density": 466
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣新港鄉",
+        "people_total": 33186,
+        "area": 66.0495,
+        "population_density": 502
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣六腳鄉",
+        "people_total": 24613,
+        "area": 62.2619,
+        "population_density": 395
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣東石鄉",
+        "people_total": 26235,
+        "area": 81.5821,
+        "population_density": 322
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣義竹鄉",
+        "people_total": 19578,
+        "area": 79.2925,
+        "population_density": 247
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣鹿草鄉",
+        "people_total": 16384,
+        "area": 54.3151,
+        "population_density": 302
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣水上鄉",
+        "people_total": 50726,
+        "area": 69.1198,
+        "population_density": 734
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣中埔鄉",
+        "people_total": 46156,
+        "area": 129.5016,
+        "population_density": 356
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣竹崎鄉",
+        "people_total": 36924,
+        "area": 162.2256,
+        "population_density": 228
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣梅山鄉",
+        "people_total": 20304,
+        "area": 119.7571,
+        "population_density": 170
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣番路鄉",
+        "people_total": 12089,
+        "area": 117.5269,
+        "population_density": 103
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣大埔鄉",
+        "people_total": 4658,
+        "area": 173.2472,
+        "population_density": 27
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義縣阿里山鄉",
+        "people_total": 5764,
+        "area": 427.8471,
+        "population_density": 13
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣屏東市",
+        "people_total": 203866,
+        "area": 65.067,
+        "population_density": 3133
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣潮州鎮",
+        "people_total": 54738,
+        "area": 42.4331,
+        "population_density": 1290
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣東港鎮",
+        "people_total": 48262,
+        "area": 29.4635,
+        "population_density": 1638
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣恆春鎮",
+        "people_total": 30859,
+        "area": 136.763,
+        "population_density": 226
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣萬丹鄉",
+        "people_total": 52085,
+        "area": 57.4679,
+        "population_density": 906
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣長治鄉",
+        "people_total": 30429,
+        "area": 39.8861,
+        "population_density": 763
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣麟洛鄉",
+        "people_total": 11313,
+        "area": 16.26,
+        "population_density": 696
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣九如鄉",
+        "people_total": 22172,
+        "area": 42.0187,
+        "population_density": 528
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣里港鄉",
+        "people_total": 26814,
+        "area": 68.9208,
+        "population_density": 389
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣鹽埔鄉",
+        "people_total": 26629,
+        "area": 64.3493,
+        "population_density": 414
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣高樹鄉",
+        "people_total": 25520,
+        "area": 90.1522,
+        "population_density": 283
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣萬巒鄉",
+        "people_total": 20918,
+        "area": 60.7315,
+        "population_density": 344
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣內埔鄉",
+        "people_total": 56148,
+        "area": 81.8554,
+        "population_density": 686
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣竹田鄉",
+        "people_total": 17719,
+        "area": 29.0732,
+        "population_density": 609
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣新埤鄉",
+        "people_total": 10232,
+        "area": 59.0102,
+        "population_density": 173
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣枋寮鄉",
+        "people_total": 25482,
+        "area": 57.7347,
+        "population_density": 441
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣新園鄉",
+        "people_total": 36692,
+        "area": 38.3109,
+        "population_density": 958
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣崁頂鄉",
+        "people_total": 16374,
+        "area": 31.2659,
+        "population_density": 524
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣林邊鄉",
+        "people_total": 19235,
+        "area": 15.6233,
+        "population_density": 1231
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣南州鄉",
+        "people_total": 11026,
+        "area": 18.97,
+        "population_density": 581
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣佳冬鄉",
+        "people_total": 20247,
+        "area": 30.9842,
+        "population_density": 653
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣琉球鄉",
+        "people_total": 12675,
+        "area": 6.8018,
+        "population_density": 1863
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣車城鄉",
+        "people_total": 9121,
+        "area": 49.8517,
+        "population_density": 183
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣滿州鄉",
+        "people_total": 8126,
+        "area": 142.2013,
+        "population_density": 57
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣枋山鄉",
+        "people_total": 5749,
+        "area": 17.2697,
+        "population_density": 333
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣三地門鄉",
+        "people_total": 7784,
+        "area": 196.3965,
+        "population_density": 40
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣霧臺鄉",
+        "people_total": 3435,
+        "area": 278.796,
+        "population_density": 12
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣瑪家鄉",
+        "people_total": 6718,
+        "area": 78.7008,
+        "population_density": 85
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣泰武鄉",
+        "people_total": 5289,
+        "area": 118.6266,
+        "population_density": 45
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣來義鄉",
+        "people_total": 7648,
+        "area": 167.7756,
+        "population_density": 46
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣春日鄉",
+        "people_total": 4866,
+        "area": 160.001,
+        "population_density": 30
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣獅子鄉",
+        "people_total": 4882,
+        "area": 301.0018,
+        "population_density": 16
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "屏東縣牡丹鄉",
+        "people_total": 4864,
+        "area": 181.8366,
+        "population_density": 27
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣臺東市",
+        "people_total": 106929,
+        "area": 109.7691,
+        "population_density": 974
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣成功鎮",
+        "people_total": 14943,
+        "area": 143.9939,
+        "population_density": 104
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣關山鎮",
+        "people_total": 9111,
+        "area": 58.7351,
+        "population_density": 155
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣卑南鄉",
+        "people_total": 17700,
+        "area": 412.6871,
+        "population_density": 43
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣大武鄉",
+        "people_total": 6565,
+        "area": 69.1454,
+        "population_density": 95
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣太麻里鄉",
+        "people_total": 11507,
+        "area": 96.6523,
+        "population_density": 119
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣東河鄉",
+        "people_total": 9000,
+        "area": 210.1908,
+        "population_density": 43
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣長濱鄉",
+        "people_total": 7756,
+        "area": 155.1868,
+        "population_density": 50
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣鹿野鄉",
+        "people_total": 8202,
+        "area": 89.698,
+        "population_density": 91
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣池上鄉",
+        "people_total": 8591,
+        "area": 82.6854,
+        "population_density": 104
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣綠島鄉",
+        "people_total": 3808,
+        "area": 15.0919,
+        "population_density": 252
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣延平鄉",
+        "people_total": 3614,
+        "area": 455.8805,
+        "population_density": 8
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣海端鄉",
+        "people_total": 4378,
+        "area": 880.0382,
+        "population_density": 5
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣達仁鄉",
+        "people_total": 3721,
+        "area": 306.4454,
+        "population_density": 12
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣金峰鄉",
+        "people_total": 3669,
+        "area": 380.6635,
+        "population_density": 10
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "臺東縣蘭嶼鄉",
+        "people_total": 4976,
+        "area": 48.3892,
+        "population_density": 103
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣花蓮市",
+        "people_total": 106368,
+        "area": 29.4095,
+        "population_density": 3617
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣鳳林鎮",
+        "people_total": 11237,
+        "area": 120.5181,
+        "population_density": 93
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣玉里鎮",
+        "people_total": 25396,
+        "area": 252.3719,
+        "population_density": 101
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣新城鄉",
+        "people_total": 20286,
+        "area": 29.4095,
+        "population_density": 690
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣吉安鄉",
+        "people_total": 82577,
+        "area": 65.2582,
+        "population_density": 1265
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣壽豐鄉",
+        "people_total": 18237,
+        "area": 218.4448,
+        "population_density": 83
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣光復鄉",
+        "people_total": 13395,
+        "area": 157.11,
+        "population_density": 85
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣豐濱鄉",
+        "people_total": 4706,
+        "area": 162.4332,
+        "population_density": 29
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣瑞穗鄉",
+        "people_total": 12107,
+        "area": 135.5862,
+        "population_density": 89
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣富里鄉",
+        "people_total": 10849,
+        "area": 176.3705,
+        "population_density": 62
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣秀林鄉",
+        "people_total": 15494,
+        "area": 1641.8555,
+        "population_density": 9
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣萬榮鄉",
+        "people_total": 6530,
+        "area": 618.491,
+        "population_density": 11
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "花蓮縣卓溪鄉",
+        "people_total": 6210,
+        "area": 1021.313,
+        "population_density": 6
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "澎湖縣馬公市",
+        "people_total": 60335,
+        "area": 33.9918,
+        "population_density": 1775
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "澎湖縣湖西鄉",
+        "people_total": 14315,
+        "area": 33.3008,
+        "population_density": 430
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "澎湖縣白沙鄉",
+        "people_total": 9799,
+        "area": 20.0875,
+        "population_density": 488
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "澎湖縣西嶼鄉",
+        "people_total": 8438,
+        "area": 18.7148,
+        "population_density": 451
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "澎湖縣望安鄉",
+        "people_total": 5117,
+        "area": 13.7824,
+        "population_density": 371
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "澎湖縣七美鄉",
+        "people_total": 3754,
+        "area": 6.9868,
+        "population_density": 537
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "基隆市中正區",
+        "people_total": 53094,
+        "area": 10.2118,
+        "population_density": 5199
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "基隆市七堵區",
+        "people_total": 53974,
+        "area": 56.2659,
+        "population_density": 959
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "基隆市暖暖區",
+        "people_total": 38188,
+        "area": 22.8283,
+        "population_density": 1673
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "基隆市仁愛區",
+        "people_total": 46244,
+        "area": 4.2335,
+        "population_density": 10923
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "基隆市中山區",
+        "people_total": 48733,
+        "area": 10.5238,
+        "population_density": 4631
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "基隆市安樂區",
+        "people_total": 81580,
+        "area": 18.025,
+        "population_density": 4526
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "基隆市信義區",
+        "people_total": 51264,
+        "area": 10.6706,
+        "population_density": 4804
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹市東區",
+        "people_total": 206843,
+        "area": 33.5768,
+        "population_density": 6160
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹市北區",
+        "people_total": 148753,
+        "area": 15.7267,
+        "population_density": 9459
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "新竹市香山區",
+        "people_total": 76392,
+        "area": 54.8491,
+        "population_density": 1393
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義市東區",
+        "people_total": 123370,
+        "area": 30.1556,
+        "population_density": 4091
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "嘉義市西區",
+        "people_total": 147513,
+        "area": 29.87,
+        "population_density": 4939
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "金門縣金城鎮",
+        "people_total": 40933,
+        "area": 21.713,
+        "population_density": 1885
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "金門縣金湖鎮",
+        "people_total": 27368,
+        "area": 41.696,
+        "population_density": 656
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "金門縣金沙鎮",
+        "people_total": 19465,
+        "area": 41.19,
+        "population_density": 473
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "金門縣金寧鄉",
+        "people_total": 27307,
+        "area": 29.854,
+        "population_density": 915
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "金門縣烈嶼鄉",
+        "people_total": 11978,
+        "area": 16.003,
+        "population_density": 748
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "金門縣烏坵鄉",
+        "people_total": 672,
+        "area": 1.2,
+        "population_density": 560
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "連江縣南竿鄉",
+        "people_total": 7496,
+        "area": 10.4,
+        "population_density": 721
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "連江縣北竿鄉",
+        "people_total": 2320,
+        "area": 9.9,
+        "population_density": 234
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "連江縣莒光鄉",
+        "people_total": 1424,
+        "area": 4.7,
+        "population_density": 303
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "連江縣東引鄉",
+        "people_total": 1266,
+        "area": 3.8,
+        "population_density": 333
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "東沙群島",
+        "people_total": "…",
+        "area": 2.38,
+        "population_density": "…"
+    },
+    {
+        "statistic_yyy": 103,
+        "site_id": "南沙群島",
+        "people_total": "…",
+        "area": 0.4896,
+        "population_density": "…"
+    }
+]
