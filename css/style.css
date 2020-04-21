@@ -1,11 +1,18 @@
 body {
     margin: 0;
-    background-color: #77d8d8;
+    background-color: #588da8;
+    color: #333;
 }
 
 .container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container > span {
+    font-size: 1.7em;
 }
 
 svg {
@@ -15,6 +22,11 @@ svg {
 
 .controller {
     position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
     right: 0;
     top: 0;
     width: 35vw;
@@ -23,10 +35,19 @@ svg {
     border-radius: 2em;
     margin: 1em;
     padding: 0.5em;
+
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
-.controller > .container {
-    margin: 0.5em;
+.controller > .title {
+    font-size: 1.7em;
+    margin-bottom: 0.5em;
+}
+
+#controller-year {
+    font-size: 1.6em;
 }
 
 .slider {
@@ -66,24 +87,39 @@ svg {
 
 .info {
     position: fixed;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+
     right: 0;
     bottom: 0;
     width: 35vw;
-    height: 50vh;
+    height: 60vh;
     background-color: #ddda;
     border-radius: 2em;
     margin: 1em;
-    padding: 0.5em;
+    margin-top: 0;
+    padding: 1em;
+
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .info > .title {
     text-align: center;
-    font-size: 2.3em;
-    margin: 0.3em;
+    font-size: 1.5em;
+    margin: 0.2em;
 }
 
 .info > .content {
-    font-size: 1.2em;
+    font-size: 1.1em;
+}
+
+.info > .reference {
+    color: #16817a;
+    font-size: 0.9em;
+    margin-top: 1em;
 }
 
 .taiwan {
@@ -97,6 +133,12 @@ svg {
 
 .boundary {
     fill: none;
-    stroke: #fffa;
+    stroke: #0002;
     stroke-width: 0.01em;
+}
+
+#pallete:hover {
+    /* transform: scale(2); */
+    transition: 0.5s;
+    cursor: pointer;
 }

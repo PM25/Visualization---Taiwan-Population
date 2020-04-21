@@ -23,28 +23,25 @@ function main() {
     }
 
     var color_range = [];
-    var interval = 1700;
+    var interval = -1000;
     for (let i = 0; i < 9; ++i) {
         color_range.push(interval);
-        interval *= 2;
+        interval += 200;
     }
     console.log(color_range);
     // Data and color scale
     var colorScale = d3
         .scaleThreshold()
-        .domain(color_range)
-        .range(d3.schemeGreens[9]);
+        .domain([-1000, -500, -300, -200, -100, 0, 500, 1000, 3000, 5000, 8000])
+        .range(d3.schemeRdYlBu[11]);
 
-    var files = [
-        "data/TOWN_MOI_1090324.json",
-        // "population103-107.json",
-        "data/opendata103N010.json",
-        "data/opendata104N010.json",
-        "data/opendata105N010.json",
-        "data/opendata106N010.json",
-        "data/opendata107N010.json",
-        "data/opendata108N010.json",
-    ];
+    var colorscale = d3.schemeRdYlBu["11"];
+    var color = d3
+        .scaleQuantize()
+        .domain([-1000, -500, -300, -200, -100, 0, 500, 1000, 3000, 5000, 8000])
+        .range(colorscale);
+
+    var files = ["data/TOWN_MOI_1090324.json", "data/population103-108.json"];
 
     Promise.all(files.map((url) => d3.json(url))).then(function (values) {
         document
@@ -52,34 +49,29 @@ function main() {
             .addEventListener("change", (e) => {
                 let year = e.target.value;
 
-                if (year in population_data) {
-                    svg.selectAll("path.taiwan")
-                        .data(taiwan.features)
-                        .attr("fill", function (data) {
-                            let id =
-                                data.properties.COUNTYNAME +
-                                data.properties.TOWNNAME;
-                            id = id.substring(0, id.length - 1);
+                svg.selectAll("path.taiwan")
+                    .data(taiwan.features)
+                    .transition()
+                    .duration(800)
+                    .attr("fill", function (data) {
+                        let id =
+                            data.properties.COUNTYNAME +
+                            data.properties.TOWNNAME;
+                        id = id.substring(0, id.length - 1);
 
-                            return colorScale(
-                                population_data[year][id]["people_total"]
-                            );
-                        });
-                }
+                        return colorScale(
+                            population_data[id]["people_total_diff"][
+                                year - 2015
+                            ]
+                        );
+                    });
+
+                document.querySelector("#controller-year").innerHTML =
+                    year + "年";
             });
 
         // Load Data
-        var population_data = {};
-        for (let i = 1; i < values.length; ++i) {
-            let data = {},
-                year = values[i][0].statistic_yyy;
-            for (let idx in values[i]) {
-                let id = values[i][idx]["site_id"];
-                id = id.substring(0, id.length - 1);
-                data[id] = values[i][idx];
-            }
-            population_data[year] = data;
-        }
+        population_data = values[1];
 
         // Draw Map
         taiwan = values[0];
@@ -96,7 +88,9 @@ function main() {
                 let id = data.properties.COUNTYNAME + data.properties.TOWNNAME;
                 id = id.substring(0, id.length - 1);
                 let year = document.querySelector("#year-slider").value;
-                return colorScale(population_data[year][id]["people_total"]);
+                return colorScale(
+                    population_data[id]["people_total_diff"][year - 2015]
+                );
             })
             .attr("id", (data) => {
                 return "city" + data.properties.TOWNID;
@@ -105,7 +99,7 @@ function main() {
                 let id = data.properties.COUNTYNAME + data.properties.TOWNNAME;
                 id = id.substring(0, id.length - 1);
                 let year = document.querySelector("#year-slider").value;
-                let info_data = population_data[year][id];
+                let info_data = population_data[id];
 
                 function Info() {
                     this.str = "";
@@ -115,12 +109,23 @@ function main() {
                 }
 
                 var info = new Info();
-                info.add("年份", info_data["statistic_yyy"]);
+                info.add("年份", info_data["statistic_yyy"][year - 2014]);
                 info.add("縣市", data.properties.COUNTYNAME);
                 info.add("城市", data.properties.TOWNNAME);
-                info.add("人口數", info_data["people_total"]);
-                info.add("面積", info_data["area"]);
-                info.add("密度", info_data["population_density"]);
+                info.add("人口數", info_data["people_total"][year - 2014]);
+                info.add(
+                    "人口增長(跟前一年比)",
+                    info_data["people_total_diff"][year - 2015]
+                );
+                info.add("面積", info_data["area"][year - 2014]);
+                info.add(
+                    "人口密度",
+                    info_data["population_density"][year - 2014]
+                );
+                info.add(
+                    "人口密度增長(跟前一年比)",
+                    info_data["population_density_diff"][year - 2015]
+                );
 
                 document.querySelector(".info .content").innerHTML = info.str;
             });
@@ -130,5 +135,58 @@ function main() {
             .datum(taiwan)
             .attr("d", path)
             .attr("class", "boundary");
+
+        drawColorScale();
+
+        function drawColorScale() {
+            let format = d3.format(".0f");
+            var pallete = svg
+                .append("g")
+                .attr("id", "pallete")
+                .attr("transform", "scale(1.3)");
+
+            var swatch = pallete.selectAll("rect").data(colorscale);
+            swatch
+                .enter()
+                .append("rect")
+                .attr("fill", function (d) {
+                    return d;
+                })
+                .attr("x", function (d, i) {
+                    return i * 25 + 20;
+                })
+                .attr("y", 30)
+                .attr("width", 25)
+                .attr("height", 10);
+
+            var texts = pallete
+                .selectAll("foo")
+                .data(color.range())
+                .enter()
+                .append("text")
+                .attr("font-size", ".5em")
+                .attr("text-anchor", "middle")
+                .attr("y", 55)
+                .attr("x", function (d, i) {
+                    return i * 25 + 30;
+                })
+                .text(function (d) {
+                    return format(color.invertExtent(d)[0]);
+                })
+                .append("tspan")
+                .attr("dy", "1.3em")
+                .attr("x", function (d, i) {
+                    return i * 25 + 30;
+                })
+                .text("to")
+                .append("tspan")
+                .attr("dy", "1.3em")
+                .attr("x", function (d, i) {
+                    return i * 25 + 30;
+                })
+                .text(function (d) {
+                    return format(color.invertExtent(d)[1]);
+                });
+        }
     });
 }
