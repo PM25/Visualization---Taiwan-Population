@@ -22,29 +22,63 @@ function main() {
             .attr("transform", d3.event.transform);
     }
 
+    var color_range = [];
+    var interval = 1700;
+    for (let i = 0; i < 9; ++i) {
+        color_range.push(interval);
+        interval *= 2;
+    }
+    console.log(color_range);
     // Data and color scale
     var colorScale = d3
         .scaleThreshold()
-        .domain([2000, 5000, 10000, 20000, 50000, 100000, 200000, 500000])
-        .range(d3.schemeBlues[7]);
+        .domain(color_range)
+        .range(d3.schemeGreens[9]);
 
     var files = [
         "data/TOWN_MOI_1090324.json",
+        // "population103-107.json",
         "data/opendata103N010.json",
+        "data/opendata104N010.json",
+        "data/opendata105N010.json",
+        "data/opendata106N010.json",
+        "data/opendata107N010.json",
         "data/opendata108N010.json",
     ];
 
     Promise.all(files.map((url) => d3.json(url))).then(function (values) {
+        document
+            .querySelector("#year-slider")
+            .addEventListener("change", (e) => {
+                let year = e.target.value;
+
+                if (year in population_data) {
+                    svg.selectAll("path.taiwan")
+                        .data(taiwan.features)
+                        .attr("fill", function (data) {
+                            let id =
+                                data.properties.COUNTYNAME +
+                                data.properties.TOWNNAME;
+                            id = id.substring(0, id.length - 1);
+
+                            return colorScale(
+                                population_data[year][id]["people_total"]
+                            );
+                        });
+                }
+            });
+
         // Load Data
-        var population_data = [];
+        var population_data = {};
         for (let i = 1; i < values.length; ++i) {
-            let data = {};
+            let data = {},
+                year = values[i][0].statistic_yyy;
             for (let idx in values[i]) {
                 let id = values[i][idx]["site_id"];
                 id = id.substring(0, id.length - 1);
                 data[id] = values[i][idx];
             }
-            population_data.push(data);
+            population_data[year] = data;
         }
 
         // Draw Map
@@ -52,7 +86,6 @@ function main() {
 
         taiwan = topojson.feature(taiwan, taiwan.objects.TOWN_MOI_1090324);
 
-        // Draw Taipei City
         svg.selectAll("path")
             .data(taiwan.features)
             .enter()
@@ -62,7 +95,8 @@ function main() {
             .attr("fill", function (data) {
                 let id = data.properties.COUNTYNAME + data.properties.TOWNNAME;
                 id = id.substring(0, id.length - 1);
-                return colorScale(population_data[0][id]["people_total"]);
+                let year = document.querySelector("#year-slider").value;
+                return colorScale(population_data[year][id]["people_total"]);
             })
             .attr("id", (data) => {
                 return "city" + data.properties.TOWNID;
@@ -70,7 +104,8 @@ function main() {
             .on("mouseover", (data) => {
                 let id = data.properties.COUNTYNAME + data.properties.TOWNNAME;
                 id = id.substring(0, id.length - 1);
-                let info_data = population_data[0][id];
+                let year = document.querySelector("#year-slider").value;
+                let info_data = population_data[year][id];
 
                 function Info() {
                     this.str = "";

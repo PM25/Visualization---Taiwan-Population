@@ -13,21 +13,77 @@ svg {
     height: 100vh;
 }
 
-.info {
+.controller {
     position: fixed;
     right: 0;
     top: 0;
     width: 35vw;
-    height: 90vh;
+    height: 30vh;
     background-color: #ddda;
     border-radius: 2em;
     margin: 1em;
+    padding: 0.5em;
+}
+
+.controller > .container {
+    margin: 0.5em;
+}
+
+.slider {
+    -webkit-appearance: none; /* Override default CSS styles */
+    appearance: none;
+    width: 100%; /* Full-width */
+    height: 1.3em; /* Specified height */
+    background: #fff5; /* Grey background */
+    outline: none; /* Remove outline */
+    opacity: 0.6; /* Set transparency (for mouse-over effects on hover) */
+    -webkit-transition: 0.3s; /* 0.2 seconds transition on hover */
+    transition: opacity 0.3s;
+    border-radius: 1em;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 1.2em;
+    height: 2em;
+    border-radius: 0.3em;
+    background: #4caf50;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 1.2em;
+    height: 2em;
+    border-radius: 0.3em;
+    background: #4caf50;
+    cursor: pointer;
+}
+
+.info {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 35vw;
+    height: 50vh;
+    background-color: #ddda;
+    border-radius: 2em;
+    margin: 1em;
+    padding: 0.5em;
 }
 
 .info > .title {
     text-align: center;
-    font-size: 2em;
-    margin: 0.5em;
+    font-size: 2.3em;
+    margin: 0.3em;
+}
+
+.info > .content {
+    font-size: 1.2em;
 }
 
 .taiwan {
@@ -37,10 +93,6 @@ svg {
 
 .taiwan:hover {
     fill: #666;
-}
-
-.non-taipei {
-    fill: #639a6755;
 }
 
 .boundary {
